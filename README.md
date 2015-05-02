@@ -6,8 +6,8 @@
 npm start
 ```
 
-## minify
+## build
 
 ```
-npm run minify
+npm run build:release
 ```
